@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newcard/static/css/main.b9a1686f.css",
+    "main.js": "/newcard/static/js/main.bef29ffa.js",
+    "index.html": "/newcard/index.html",
+    "main.b9a1686f.css.map": "/newcard/static/css/main.b9a1686f.css.map",
+    "main.bef29ffa.js.map": "/newcard/static/js/main.bef29ffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9a1686f.css",
+    "static/js/main.bef29ffa.js"
+  ]
+}
